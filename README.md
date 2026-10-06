@@ -23,6 +23,7 @@ Operating Expense (Opex) Ratio: Evaluates overhead, logistics, and distribution 
 Because you cannot simply add a turnover multiple to a percentage, I normalized these variables onto a uniform 0-100 scale using Min-Max scaling. Negative drivers, like Opex, were inverted so that a higher score consistently signifies better efficiency.
 
 # Key Findings: The Tale of Two Supply Chains
+Excel Sheet: https://docs.google.com/spreadsheets/d/11kQXlnNGmiVK2PuDJh6mdyPVeQkyg7MtOIp7b1aSlFo/edit?usp=sharing
 1. Dabur: The Textbook Velocity Engine
 Dabur's data validated the standard FMCG doctrine perfectly. Their operational profitability is overwhelmingly governed by speed-to-shelf.
 
